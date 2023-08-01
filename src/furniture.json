@@ -1,0 +1,292 @@
+[
+    {
+        "id": "1",
+        "category": 1,
+        "name": " AC2 Chair",
+        "image": "/images/chairs/chair1.jpeg",
+        "manufacturer": "Andersen Furniture",
+        "price": 379,
+        "color": "oak white pigmented",
+        "description": "The AC2 Chair from Andersen Furniture convinces with its clear and honest expression. The design studio byKATO has created with the chair a seat that becomes a classic through beautiful details and elegantly worked out lines. The chair looks timeless as well as modern at the same time and thus fits perfectly into any ambience. The curved backrest pleasantly embraces the body and provides a comfortable feeling. The chair can be arranged in several at the dining table, but is also a great eye-catcher standing alone in the entrance area next to the coat rack.",
+        "carouselImages": [
+            "/images/chairs/chair1.jpeg",
+            "/images/chairs/chair1-2.jpeg",
+            "/images/chairs/chair1-3.jpeg",
+            "/images/chairs/chair1-4.jpeg"
+          ]
+    },
+    {
+        "id": "2",
+        "category": 1,
+        "name": "Bora Armchair",
+        "image": "/images/chairs/bora-chair1.jpeg",
+        "manufacturer": "Nardi",
+        "price": 85,
+        "color": "celeste",
+        "description": "The Bora Armchair by Raffaello Galiotto for Nardi is a wonderful addition to the outdoor ambience. On the balcony, terrace or in the garden, cozy sunny hours can be spent in the chair. Round edges and the armrests provide a pleasant comfort. Due to the perforated seat, the back is also pleasantly ventilated in the summer and rainwater can easily drain away.",
+        "carouselImages": [
+            "/images/chairs/bora-chair1.jpeg",
+            "/images/chairs/bora-chair2.jpeg"
+          ]
+    },
+    {
+        "id": "3",
+        "category": 1,
+        "name": "Found chair",
+        "image": "/images/chairs/found-chair1.jpeg",
+        "manufacturer": "House Doctor",
+        "price": 104,
+        "color": "antique light grey",
+        "description": "The Found chair by House Doctor is a comfortable chair for indoor use and impresses with its contrasts. Its special feature is the extremely comfortable and soft seat with a cord cover. The unusual material plays an exciting game with the classic design and sets real design accents. The Found chair gives every dining room and living room an individual comfort!",
+        "carouselImages": [
+            "/images/chairs/found-chair1.jpeg",
+            "/images/chairs/found-chair2.jpeg",
+            "/images/chairs/found-chair3.jpeg"
+          ]
+    },
+    {
+        "id": "4",
+        "category": 1,
+        "name": "Soft Egg Chair",
+        "image": "/images/chairs/egg-chair1.jpeg",
+        "manufacturer": "Driade",
+        "price": 194,
+        "color": "grey blue",
+        "description": "The Soft Egg chair from Driade is a unique designer chair from the Italian seating furniture specialist. It is made of one piece and provides highest seating comfort. Soft Egg from Driade is not only a visual highlight and extremely comfortable, but also flexible and practical: it can be used both indoors and outdoors and can be stacked on top of each other if required. It was designed by the French star designer Philippe Starck.",
+        "carouselImages": [
+            "/images/chairs/egg-chair1.jpeg",
+            "/images/chairs/egg-chair2.jpeg"
+          ]
+    },
+    {
+        "id": "5",
+        "category": 1,
+        "name": "Darwin Garden chair",
+        "image": "/images/chairs/emu-chair1.jpeg",
+        "manufacturer": "Emu",
+        "price": 172,
+        "color": "antique iron",
+        "description": "The Darwin garden chair from Emu provides comfort and versatility in the garden with its ergonomic proportions and the lightness of the frame. The modern look of the angular frame is enhanced by the finely perforated seat and backrest. This is characteristic of the Darwin collection from Emu and also ensures comfortable sitting.",
+        "carouselImages": [
+            "/images/chairs/emu-chair1.jpeg",
+            "/images/chairs/emu-chair2.jpeg"
+          ]
+    },
+    {
+        "id": "6",
+        "category": 2,
+        "name": "Pillar dining table round",
+        "image": "/images/tables/pillar-table1.jpeg",
+        "manufacturer": "HKliving",
+        "price": 1195,
+        "color": "black",
+        "description": "The Pillar round dining table by HKliving has a round table top and a columnar base, making the table the center of attention in every room. Its appearance is noble and stylishly enhances the ambience.",
+        "carouselImages": [
+            "/images/tables/pillar-table1.jpeg",
+            "/images/tables/pillar-table2.jpeg"
+          ]
+    },
+    {
+        "id": "7",
+        "category": 2,
+        "name": "Linear wood dining table",
+        "image": "/images/tables/muuto-table1.jpeg",
+        "manufacturer": "Muuto",
+        "price": 1249,
+        "color": "oak",
+        "description": "The Linear Wood dining table from Muuto is characterised by its simple, elegant design. With its reduced form and Scandinavian charm, it brings calm to every dining area. While the table top has defined edges, the legs are ground round. The combination of both elements ensures a harmonious overall appearance that blends in perfectly with any ambience. The designer Thomas Bentzen, who has already worked for numerous well-known manufacturers, is responsible for the design of the table.",
+        "carouselImages": [
+            "/images/tables/muuto-table1.jpeg",
+            "/images/tables/muuto-table2.jpeg",
+            "/images/tables/muuto-table3.jpeg"
+          ]
+    },
+    {
+        "id": "8",
+        "category": 2,
+        "name": "Snaregade Table Round",
+        "image": "/images/tables/menu-table1.jpeg",
+        "manufacturer": "Menu",
+        "price": 1600,
+        "color": "oak veneer stained blackmenu-table",
+        "description": "The Linear Wood dining table from Muuto is characterised by its simple, elegant design. With its reduced form and Scandinavian charm, it brings calm to every dining area. While the table top has defined edges, the legs are ground round. The combination of both elements ensures a harmonious overall appearance that blends in perfectly with any ambience. The designer Thomas Bentzen, who has already worked for numerous well-known manufacturers, is responsible for the design of the table.",
+        "carouselImages": [
+            "/images/tables/menu-table1.jpeg",
+            "/images/tables/menu-table2.jpeg"
+          ]
+    },
+    {
+        "id": "9",
+        "category": 2,
+        "name": "Tavolo XZ3 (round)",
+        "image": "/images/tables/tavolo-table1.jpeg",
+        "manufacturer": "Magis",
+        "price": 889,
+        "color": "white",
+        "description": "The dining table Tavolo by Magis has a delicate steel wire frame and a round table top made of resistant MDF. The Magis design from 1990 offers enough space for the whole family with its round top and diameter of 1.2 meters.tavolo-table1",
+        "carouselImages": [
+            "/images/tables/tavolo-table1.jpeg",
+            "/images/tables/tavolo-table2.jpeg"
+          ]
+    },
+    {
+        "id": "10",
+        "category": 2,
+        "name": "Copenhague cph deux 210 dining table",
+        "image": "/images/tables/hay-table1.jpeg",
+        "manufacturer": "Hay",
+        "price": 889,
+        "color": "black",
+        "description": "The Copenhague CPH Deux 210 dining table was created by the designer brothers Ronan and Erwan Bouroullec. In 2012 they were commissioned by the Danish manufacturer Hay to design a furniture collection for the famous University of Copenhagen. The result is numerous design pieces that score points in terms of functionality and simplicity. Due to their homely character, however, the parts are also ideally suited for use in the home.",
+        "carouselImages": [
+            "/images/tables/hay-table1.jpeg",
+            "/images/tables/hay-table2.jpeg"
+          ]
+    },
+    {
+        "id": "11",
+        "category": 3,
+        "name": "Wind Sofa",
+        "manufacturer": "Broste Copenhagen",
+        "image": "/images/sofas/broste-sofa1.jpeg",
+        "price": 2105,
+        "color": "chinois green",
+        "description": "The Wind Sofa from Broste Copenhagen invites you to relax. The elegant, angular shape of the sofa gives the ambience a noble touch and personal style. Tapered wooden feet set warm accents, creating a harmonious overall appearance. Extra legs are available as accessories, so they can be easily replaced if necessary. The sofa is equipped with cushion rolls on the armrests, which enhance comfort. The fabrics of the Wind sofa are manufactured according to Oeko-Tex® Standard 100. The Wind Sofa will become the centerpiece of any room thanks to its stylish design and is the perfect place for cozy evenings with friends and family. Matching the Wind sofa is also available Wind armchair is also available from Broste Copenhagen .",
+        "carouselImages": [
+            "/images/sofas/broste-sofa1.jpeg",
+            "/images/sofas/broste-sofa2.jpeg"
+          ]
+    },
+    {
+        "id": "12",
+        "category": 3,
+        "name": "Mags Sofa, 3-seater",
+        "image": "/images/sofas/hay-sofa1.jpeg",
+        "manufacturer": "Hay",
+        "price": 3200,
+        "color": "gray",
+        "description": "The features that define a good sofa cannot be seen – the spring system, the stability of the foam, and the durability of the upholstery. For the creation and development of Mags, Hay Studio put these elements in the foreground. Thanks to its high armrests and deep seats, the Mags sofa is ideal for relaxing and unwinding. Its compact assembly without loose cushions or upholstery makes this an especially adaptable sofa, and throws and cushions can be added and changed however the mood fits.",
+        "carouselImages": [
+            "/images/sofas/hay-sofa1.jpeg",
+            "/images/sofas/hay-sofa2.jpeg",
+            "/images/sofas/hay-sofa3.jpeg"
+          ]
+    },
+    {
+        "id": "13",
+        "category": 3,
+        "name": "Mette Corner sofa",
+        "image": "/images/sofas/nuuck-sofa1.jpeg",
+        "manufacturer": "Nuuck",
+        "price": 1599,
+        "color": "light gray",
+        "description": "The Mette Corner sofa from the manufacturer Nuuck wonderfully provides incredibly high comfort. The corner sofa invites you to spend time comfortably every day. Relaxation is guaranteed thanks to Mette guaranteed! It captivates with its simple, but extremely noble and stylish design. Mette Provides a calm, cozy look in the living room interior. The sofa is made of 100% polypropylene and is inspired by the soothing nature of Greenland.",
+        "carouselImages": [
+            "/images/sofas/nuuck-sofa1.jpeg",
+            "/images/sofas/nuuck-sofa2.jpeg",
+            "/images/sofas/nuuck-sofa3.jpeg"
+          ]
+    },
+    {
+        "id": "14",
+        "category": 3,
+        "name": "Develius Sofa",
+        "image": "/images/sofas/andTradition-sofa1.jpeg",
+        "manufacturer": "& Tradition",
+        "price": 3809,
+        "color": "dark green",
+        "description": "The Develius sofa series by & Tradition was created by Dutch designer Edward van Vliet, who was inspired, among other things, by large cushions and chaise longue furniture. Vliet wanted to create a series that allows the user to create their own individual comfort zone with the help of different modules according to their own ideas and needs. The Develius Sofa series celebrates the luxurious feeling of lounging.",
+        "carouselImages": [
+            "/images/sofas/andTradition-sofa1.jpeg",
+            "/images/sofas/andTradition-sofa2.jpeg"
+          ]
+    },
+    {
+        "id": "15",
+        "category": 3,
+        "name": "185 Corner sofa",
+        "image": "/images/sofas/freistil-sofa1.jpeg",
+        "manufacturer": "freistil",
+        "price": 4059,
+        "color": "base grey",
+        "description": "The 185 sofa combination by freistil belongs to the Basic collection of the manufacturer and captivates with its timeless and discreet appearance. The straight sides and the slightly curved upholstery invite you to linger and relax, while the filigree feet give the modular sofa a light expression.",
+        "carouselImages": [
+            "/images/sofas/freistil-sofa1.jpeg",
+            "/images/sofas/freistil-sofa2.jpeg",
+            "/images/sofas/freistil-sofa3.jpeg"
+          ]
+    },
+    {
+        "id": "16",
+        "category": 4,
+        "name": "Ves Shelf",
+        "image": "/images/shelves/bloomingville-shelf1.jpeg",
+        "manufacturer": "Bloomingville",
+        "price": 195,
+        "color": "black",
+        "description": "The Ves shelf from Bloomingville is a very lightweight piece of furniture that looks great in any room. With its minimalist design in black metal, it is ideal for placing small decorative items. Each shelf can support up to 8 kilos.",
+        "carouselImages": [
+            "/images/shelves/bloomingville-shelf1.jpeg",
+            "/images/shelves/bloomingville-shelf2.jpeg"
+          ]
+    },
+    {
+        "id": "17",
+        "category": 4,
+        "name": "Hanibal Shelf",
+        "image": "/images/shelves/tojo-shelf1.jpeg",
+        "manufacturer": "Tojo",
+        "price": 1700,
+        "color": "white",
+        "description": "Hanibal is a modular shelving system designed by the design office FLOID - under supervision of Florian Bürkle. The open shelf system features a simple, screwless assembly and a restrained minimalist design, which was awarded the Interior Innovation Award in 2015 among other prizes.",
+        "carouselImages": [
+            "/images/shelves/tojo-shelf1.jpeg",
+            "/images/shelves/tojo-shelf2.jpeg"
+          ]
+    },
+    {
+        "id": "18",
+        "category": 4,
+        "name": "Free shelving system stepped",
+        "image": "/images/shelves/montana-shelf1.jpeg",
+        "manufacturer": "Montana",
+        "price": 1799,
+        "color": "black",
+        "description": "The shelf in various heights from the Free shelf system series by Jakob Wagner for Montana is a large, free-standing shelf for living room, office or kitchen. Minimalist and filigree in design, the shelf, despite its dimensions (178.1 x 203.4 cm), does not disturb or confine the room. In the shelf books, files, vases, caskets, crockery and much more find a beautiful and decorative place.",
+        "carouselImages": [
+            "/images/shelves/montana-shelf1.jpeg",
+            "/images/shelves/montana-shelf2.jpeg",
+            "/images/shelves/montana-shelf3.jpeg"
+          ]
+    },
+    {
+        "id": "19",
+        "category": 4,
+        "name": "Library Shelf",
+        "image": "/images/shelves/frama-shelf1.jpeg",
+        "manufacturer": "Frama",
+        "price": 1239,
+        "color": "oiled oak",
+        "description": "What has been known since school, now also picks up the Library system of Frama : Reading and writing belong together. With the desk top the Library shelf now has a practical extension that adds a desk or further presentation space to the shelf. This is easy to assemble.",
+        "carouselImages": [
+            "/images/shelves/frama-shelf1.jpeg",
+            "/images/shelves/frama-shelf2.jpeg",
+            "/images/shelves/frama-shelf3.jpeg"
+          ]
+    },
+    {
+        "id": "20",
+        "category": 4,
+        "name": "Shelving System",
+        "image": "/images/shelves/moebe-shelf1.jpeg",
+        "manufacturer": "Moebe",
+        "price": 1181,
+        "color": "oiled oak / black",
+        "description": "The Shelving System from Moebe is an expandable shelving system that requires no screws or glue at all. The concept is based on simple, intelligent wedge-shaped connections that reliably hold the individual elements together without the need for tools. Moreover, the use of wedges as connectors gives the user full freedom to design the shelving according to their own wishes, place the shelves in any position and adapt them to specific needs.",
+        "carouselImages": [
+            "/images/shelves/moebe-shelf1.jpeg",
+            "/images/shelves/moebe-shelf2.jpeg",
+            "/images/shelves/moebe-shelf3.jpeg"
+          ]
+    }
+]

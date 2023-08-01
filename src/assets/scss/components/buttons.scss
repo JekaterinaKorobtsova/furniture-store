@@ -1,0 +1,37 @@
+button,
+button.add-button {
+    border: none;
+    width: 120px;
+    padding: 10px 8px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    white-space: nowrap;
+  }
+  
+  button.add-button:focus,
+  button.add-button:hover:not(.added-button):not(.disabled) 
+  button:focus,
+  button:hover:not(.added-button):not(.disabled){
+    background-image: none;
+    background-color: $light-grey;
+  }
+  
+  button.add-button:active {
+    background-color: $light-grey;
+  }
+  
+  button.add-button.added-button:hover {
+    background-color: transparent;
+  }
+  
+  .added-button {
+    color: $green;
+  }
+  
+  .disabled {
+    opacity: 0.8;
+    pointer-events: none;
+  }
+  
